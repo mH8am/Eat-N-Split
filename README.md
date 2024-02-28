@@ -14,7 +14,7 @@ Eat-n-Split is a straightforward single-page React application designed to simpl
 To start using Eat-n-Split, follow these simple steps:
 
 1. Clone this repository to your local machine.
-2. Open the `index.html` file in your preferred web browser.
+2. Open the `index.js` file in your preferred web browser.
 3. Begin by adding friends and entering their respective expenses.
 4. Split the bill and see the amount owed by each person instantly.
 
